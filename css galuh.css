@@ -25,6 +25,7 @@
     -ms-border-radius: 0px !important;
     -o-border-radius: 0px !important;
     border-radius: 0px !important;
+    margin-TOP: -10px;
     margin-left: 0px;
   }
   .bank img:first-child {
