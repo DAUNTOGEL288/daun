@@ -1,0 +1,329 @@
+/* Minification failed. Returning unminified contents.
+ (7972,28): run-time error CSS1038: Expected hex color, found '#8e00000'
+  */
+/**
+  * BxSlider v4.1.2 - Fully loaded, responsive content slider
+  * http://bxslider.com
+  *
+  * Written by: Steven Wanderski, 2014
+  * http://stevenwanderski.com
+  * (while drinking Belgian ales and listening to jazz)
+  *
+  * CEO and founder of bxCreative, LTD
+  * http://bxcreative.com
+  */
+
+  .bank {
+    text-align: center;
+    width: 145px !important;
+    height: 74px !important;
+    padding: 0px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    border: none !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -ms-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    border-radius: 0px !important;
+    margin-left: 0px;
+  }
+  .bank img:first-child {
+    width: 12px !important;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 13px;
+  }
+  
+  .bca {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .mandiri {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtromEF") 0px 0px
+      no-repeat !important;
+  }
+  
+  .bri {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtrz8le") 0px 0px
+      no-repeat !important;
+  }
+  
+  .bni {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtrqsVe") 0px 0px
+      no-repeat !important;
+  }
+  
+  .danamon {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtruOVp") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.bsi {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.bsi {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXgeN1.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.bsi {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.maybank {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px
+      0px no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.maybank {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.maybank {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px
+      0px no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.dana {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.dana {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.dana {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.gopay {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.gopay {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.gopay {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.linkaja {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px
+      0px no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.linkaja {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.linkaja {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px
+      0px no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.ovo {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.ovo {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.ovo {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.permata {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.permata {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXgeN1.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.permata {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.panin {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.panin {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.panin {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .bca.offline {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .mandiri.offline {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtromEF") 0px
+      0px no-repeat !important;
+  }
+  
+  .bri.offline {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtrz8le") 0px 0px
+      no-repeat !important;
+  }
+  
+  .bni.offline {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtrqsVe") 0px 0px
+      no-repeat !important;
+  }
+  
+  .danamon.offline {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtruOVp") 0px
+      0px no-repeat !important;
+  }
+  
+  .bca.trouble {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .mandiri.trouble {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtromEF") 0px
+      0px no-repeat !important;
+  }
+  
+  .bri.trouble {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtrz8le") 0px 0px
+      no-repeat !important;
+  }
+  
+  .bni.trouble {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtrqsVe") 0px 0px
+      no-repeat !important;
+  }
+  
+  .danamon.trouble {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://freeimage.host/i/dtruOVp") 0px
+      0px no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .trouble.cimb {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .online.cimb {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
+  
+  .owl-wrapper .owl-item .bank .offline.cimb {
+    width: 145px !important;
+    height: 94px !important;
+    background: url("https://iili.io/dtXBLhP.gif") 0px 0px
+      no-repeat !important;
+  }
